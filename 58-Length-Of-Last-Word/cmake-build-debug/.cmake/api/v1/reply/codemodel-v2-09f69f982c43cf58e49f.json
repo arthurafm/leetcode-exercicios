@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "58_Length_Of_Last_Word",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "58_Length_Of_Last_Word::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-58_Length_Of_Last_Word-Debug-dba8df26e8c468c7a20c.json",
+					"name" : "58_Length_Of_Last_Word",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Arthur/Desktop/LeetCode/58-Length-Of-Last-Word/cmake-build-debug",
+		"source" : "C:/Users/Arthur/Desktop/LeetCode/58-Length-Of-Last-Word"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
