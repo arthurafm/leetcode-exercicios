@@ -1,0 +1,27 @@
+# ninja log v5
+2	334	6881514168339355	CMakeFiles/9_Palindrome_Number.dir/main.cpp.obj	71c3f71f38cac99a
+407	496	6881504941004864	9_Palindrome_Number.exe	f87358759c742a8d
+1	146	6881514299681626	build.ninja	295b7c64ebc11289
+3	93	6881514301240288	9_Palindrome_Number.exe	f87358759c742a8d
+3	303	6881514769605656	CMakeFiles/9_Palindrome_Number.dir/main.cpp.obj	71c3f71f38cac99a
+303	385	6881514770395675	9_Palindrome_Number.exe	f87358759c742a8d
+3	302	6881514989282190	CMakeFiles/9_Palindrome_Number.dir/main.cpp.obj	71c3f71f38cac99a
+303	386	6881514990083405	9_Palindrome_Number.exe	f87358759c742a8d
+4	302	6881515402373235	CMakeFiles/9_Palindrome_Number.dir/main.cpp.obj	71c3f71f38cac99a
+303	385	6881515403165665	9_Palindrome_Number.exe	f87358759c742a8d
+3	315	6881515512052894	CMakeFiles/9_Palindrome_Number.dir/main.cpp.obj	71c3f71f38cac99a
+315	398	6881515512847065	9_Palindrome_Number.exe	f87358759c742a8d
+3	348	6881515572137403	CMakeFiles/9_Palindrome_Number.dir/main.cpp.obj	71c3f71f38cac99a
+349	445	6881515573055334	9_Palindrome_Number.exe	f87358759c742a8d
+4	314	6881515606535318	CMakeFiles/9_Palindrome_Number.dir/main.cpp.obj	71c3f71f38cac99a
+315	397	6881515607334095	9_Palindrome_Number.exe	f87358759c742a8d
+3	299	6881515633096027	CMakeFiles/9_Palindrome_Number.dir/main.cpp.obj	71c3f71f38cac99a
+299	388	6881515633939676	9_Palindrome_Number.exe	f87358759c742a8d
+3	309	6881515661967149	CMakeFiles/9_Palindrome_Number.dir/main.cpp.obj	71c3f71f38cac99a
+310	391	6881515662751181	9_Palindrome_Number.exe	f87358759c742a8d
+3	300	6881515766327780	CMakeFiles/9_Palindrome_Number.dir/main.cpp.obj	71c3f71f38cac99a
+301	383	6881515767113920	9_Palindrome_Number.exe	f87358759c742a8d
+3	297	6881515806828881	CMakeFiles/9_Palindrome_Number.dir/main.cpp.obj	71c3f71f38cac99a
+298	380	6881515807621204	9_Palindrome_Number.exe	f87358759c742a8d
+3	294	6881515887447500	CMakeFiles/9_Palindrome_Number.dir/main.cpp.obj	71c3f71f38cac99a
+295	378	6881515888250892	9_Palindrome_Number.exe	f87358759c742a8d
