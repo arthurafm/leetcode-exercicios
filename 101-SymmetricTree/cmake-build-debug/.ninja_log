@@ -1,0 +1,13 @@
+# ninja log v5
+1	311	6893524716252062	CMakeFiles/101_SymmetricTree.dir/main.cpp.obj	59c97d3692fcf27e
+314	396	6893524717078867	101_SymmetricTree.exe	7837bab89a02e8f2
+4	290	6893534412179844	CMakeFiles/101_SymmetricTree.dir/main.cpp.obj	59c97d3692fcf27e
+291	372	6893534412968964	101_SymmetricTree.exe	7837bab89a02e8f2
+2	287	6893534540538753	CMakeFiles/101_SymmetricTree.dir/main.cpp.obj	59c97d3692fcf27e
+288	367	6893534541305792	101_SymmetricTree.exe	7837bab89a02e8f2
+3	304	6893534752389679	CMakeFiles/101_SymmetricTree.dir/main.cpp.obj	59c97d3692fcf27e
+304	383	6893534753153209	101_SymmetricTree.exe	7837bab89a02e8f2
+3	317	6893540430173370	CMakeFiles/101_SymmetricTree.dir/main.cpp.obj	59c97d3692fcf27e
+317	403	6893540431001039	101_SymmetricTree.exe	7837bab89a02e8f2
+3	328	6893541492318028	CMakeFiles/101_SymmetricTree.dir/main.cpp.obj	59c97d3692fcf27e
+329	410	6893541493101313	101_SymmetricTree.exe	7837bab89a02e8f2
